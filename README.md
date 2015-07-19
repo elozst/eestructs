@@ -37,7 +37,7 @@ This is a Java and other stuff:
 [logo]: https://github.com/elozst/eestructs/blob/master/logos/javaee1.png "JavaEE"
 [logo2]: https://github.com/elozst/eestructs/blob/master/logos/javaeehibernate.png "JavaEE hibernate"
 [logo3]: https://github.com/elozst/eestructs/blob/master/logos/javaeespring.png "JavaEE Spring"
-[logo4]: https://github.com/elozst/eestructs/blob/master/logos/javaeewild.png "JavaEE Wild"
+[logo4]: (https://github.com/elozst/eestructs/blob/master/logos/javaeewild.png =100x20) "JavaEE Wild"
 
 
 
