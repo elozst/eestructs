@@ -13,20 +13,23 @@ Simple todo list
 1. Develop on Java EE components
 
 2. Start from simple structures to more complex ones
+
 ⋅⋅* Maths, algorithms, etc.
 
 3. JDBC and oracle
+
 ⋅⋅1. Oracle its cool
 
 4. JSP and web stuff, frameworks, AS.
 
 ⋅⋅⋅start-here to ~~Everything.~~
+...start-there
 
 Some Tech:
 ------
 
 This is a Java and other stuff: 
-![alt text][logo]
+![Java EE Image][logo]
 
 [logo]: https://github.com/elozst/logos/javaee1.png "JavaEE"
 
