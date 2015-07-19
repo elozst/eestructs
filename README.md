@@ -14,16 +14,16 @@ Simple todo list
 
 2. Start from simple structures to more complex ones
 
-⋅⋅* Maths, algorithms, etc.
+    * Maths, algorithms, etc.
 
 3. JDBC and oracle
 
-⋅⋅1. Oracle its cool
+    1. Oracle its cool
 
 4. JSP and web stuff, frameworks, AS.
 
-⋅⋅⋅start-here to ~~Everything.~~
-...start-there
+    start-here to ~~Everything.~~
+    start-there
 
 Some Tech:
 ------
