@@ -32,7 +32,7 @@ This is a Java and other stuff:
 ![Java EE Image][logo]
 ![Hibernate Image][logo2]
 ![Spring Image][logo3]
-![WildFly Image](https://github.com/elozst/eestructs/blob/master/logos/javaeewild.png){width:200px;}
+![WildFly Image](https://github.com/elozst/eestructs/blob/master/logos/javaeewild.png){: width:"200px" height="36px"}
 
 [logo]: https://github.com/elozst/eestructs/blob/master/logos/javaee1.png "JavaEE"
 [logo2]: https://github.com/elozst/eestructs/blob/master/logos/javaeehibernate.png "JavaEE hibernate"
